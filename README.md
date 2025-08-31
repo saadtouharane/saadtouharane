@@ -63,13 +63,11 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
-//
 <details>
   <summary>More stats</summary>
   
 
 </details>
-//
 <hr></hr>
 
 **Code Cycle**<br>
